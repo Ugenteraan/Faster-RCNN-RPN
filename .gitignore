@@ -1,2 +1,2 @@
-./model_ckpt/**
-./trained_model/**
+model_ckpt/**
+trained_model/**
