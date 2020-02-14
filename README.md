@@ -5,11 +5,9 @@ Region Proposal Network **(RPN)** which is a part of Faster R-CNN algorithm, is 
 Short notes are provided for a clearer understanding and all implementation is done on RPN.ipynb file only. Below are the results of the RPN on localizing airplanes.
 
 ### Original Input Images 
-<img src="readme_images/1.png" width="150">
-<img src="readme_images/3.png" width="150">
-<img src="readme_images/5.png" width="150">
-<img src="readme_images/7.png" width="150">
-<img src="readme_images/9.png" width="150">
+![1](readme_images/1.png){ width=50% }
+![3](readme_images/3.png){ width=50% }
+
 
 ### Predicted Bounding Boxes
 <img src="readme_images/2.png" width="60">
